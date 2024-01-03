@@ -1,0 +1,14 @@
+name: feature
+description: Creates a base feature, with a page and its route.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.51 <0.1.0"
+
+vars:
+  feature_name:
+    type: string
+    description: Feature name
+    default: CoolFeature
+    prompt: What is the feature name?
