@@ -1,7 +1,7 @@
+import 'package:flame/components.dart';
 import 'package:flame/game.dart';
-import 'package:flame/extensions.dart';
 
-class {{feature_name.pascalCase()}} extends FlameGame {
+class {{game_name.pascalCase()}} extends FlameGame {
 
   static final resolution = Vector2(256, 240);
 
