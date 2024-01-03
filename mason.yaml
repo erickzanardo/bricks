@@ -3,3 +3,7 @@ bricks:
     git:
       url: https://github.com/erickzanardo/bricks.git
       path: bricks/feature
+  nes_flame_game:
+    git:
+      url: https://github.com/erickzanardo/bricks.git
+      path: bricks/nes_flame_game

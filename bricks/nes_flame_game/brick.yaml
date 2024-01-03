@@ -1,0 +1,14 @@
+name: nes_flame_game
+description: A Flame game with the NES resolution
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.51 <0.1.0"
+
+vars:
+  game_name:
+    type: string
+    description: The game name
+    default: NesFlameGame
+    prompt: What is the game name?

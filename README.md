@@ -15,3 +15,7 @@ Simple download the `mason.yaml` file and add it to your project, then run `maso
 `feature`
 
 Creates a simple folder feature, with just the `Page` and `View`.
+
+`nes_flame_game`
+
+Creates a `FlameGame` with the viewport already configured for the NES original resolution.
