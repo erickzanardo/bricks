@@ -1,0 +1,14 @@
+name: repository
+description: Creates a new repository
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.51 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: Name of the repository
+    default: Settings
+    prompt: What is the name of the repository?
